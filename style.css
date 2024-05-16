@@ -1,0 +1,35 @@
+
+*{
+  font-size: 30px;
+  font-weight: 900;
+}
+body{
+  background-color: rgb(86, 115, 93);
+}
+button{
+  cursor: pointer;
+}
+#heading{
+  font-size: 30px;
+  text-align: center;
+  font-weight: 900;
+}
+#main-div{
+  text-align: center;
+}
+#rock,#scissors,#paper{
+ width: 200px;
+ height: 200px;
+  border-radius: 50%;
+  font-size: 30px;
+  background-color: black;
+  color:yellow;
+  border: 2px solid blue;
+  
+}
+#reset{
+  background-color: black;
+  border: 1px solid gray;
+  color: yellow;
+  border-radius: 10px;
+}
